@@ -1,0 +1,28 @@
+T:\Tanim final\DAL\bin\Debug\DAL.dll.config
+T:\Tanim final\DAL\bin\Debug\DAL.dll
+T:\Tanim final\DAL\bin\Debug\DAL.pdb
+T:\Tanim final\DAL\bin\Debug\EntityFramework.dll
+T:\Tanim final\DAL\bin\Debug\EntityFramework.SqlServer.dll
+T:\Tanim final\DAL\bin\Debug\EntityFramework.xml
+T:\Tanim final\DAL\bin\Debug\EntityFramework.SqlServer.xml
+T:\Tanim final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+T:\Tanim final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+T:\Tanim final\DAL\obj\Debug\DAL.csproj.CopyComplete
+T:\Tanim final\DAL\obj\Debug\DAL.dll
+T:\Tanim final\DAL\obj\Debug\DAL.pdb
+T:\Tanim final\DAL\obj\Debug\DAL.Migrations.initDB.resources
+T:\Tanim final\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+T:\OneGo\DAL\bin\Debug\DAL.dll.config
+T:\OneGo\DAL\bin\Debug\DAL.dll
+T:\OneGo\DAL\bin\Debug\DAL.pdb
+T:\OneGo\DAL\bin\Debug\EntityFramework.dll
+T:\OneGo\DAL\bin\Debug\EntityFramework.SqlServer.dll
+T:\OneGo\DAL\bin\Debug\EntityFramework.xml
+T:\OneGo\DAL\bin\Debug\EntityFramework.SqlServer.xml
+T:\OneGo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+T:\OneGo\DAL\obj\Debug\DAL.Migrations.initDB.resources
+T:\OneGo\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+T:\OneGo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+T:\OneGo\DAL\obj\Debug\DAL.csproj.CopyComplete
+T:\OneGo\DAL\obj\Debug\DAL.dll
+T:\OneGo\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,156 @@
+T:\Tanim final\OneGo\bin\OneGo.dll.config
+T:\Tanim final\OneGo\bin\OneGo.dll
+T:\Tanim final\OneGo\bin\OneGo.pdb
+T:\Tanim final\OneGo\bin\roslyn\csc.exe
+T:\Tanim final\OneGo\bin\roslyn\csc.exe.config
+T:\Tanim final\OneGo\bin\roslyn\csc.rsp
+T:\Tanim final\OneGo\bin\roslyn\csi.exe
+T:\Tanim final\OneGo\bin\roslyn\csi.exe.config
+T:\Tanim final\OneGo\bin\roslyn\csi.rsp
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Tanim final\OneGo\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\Tanim final\OneGo\bin\roslyn\System.AppContext.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Collections.Immutable.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Console.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Globalization.Calendars.dll
+T:\Tanim final\OneGo\bin\roslyn\System.IO.Compression.dll
+T:\Tanim final\OneGo\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\Tanim final\OneGo\bin\roslyn\System.IO.FileSystem.dll
+T:\Tanim final\OneGo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Net.Http.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Net.Sockets.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Reflection.Metadata.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\Tanim final\OneGo\bin\roslyn\System.ValueTuple.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Xml.XPath.dll
+T:\Tanim final\OneGo\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Tanim final\OneGo\bin\roslyn\vbc.exe
+T:\Tanim final\OneGo\bin\roslyn\vbc.exe.config
+T:\Tanim final\OneGo\bin\roslyn\vbc.rsp
+T:\Tanim final\OneGo\bin\roslyn\VBCSCompiler.exe
+T:\Tanim final\OneGo\bin\roslyn\VBCSCompiler.exe.config
+T:\Tanim final\OneGo\bin\BLL.dll
+T:\Tanim final\OneGo\bin\EntityFramework.dll
+T:\Tanim final\OneGo\bin\EntityFramework.SqlServer.dll
+T:\Tanim final\OneGo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Tanim final\OneGo\bin\Newtonsoft.Json.dll
+T:\Tanim final\OneGo\bin\System.Net.Http.Formatting.dll
+T:\Tanim final\OneGo\bin\System.Web.Http.dll
+T:\Tanim final\OneGo\bin\System.Web.Http.WebHost.dll
+T:\Tanim final\OneGo\bin\DAL.dll
+T:\Tanim final\OneGo\bin\AutoMapper.dll
+T:\Tanim final\OneGo\bin\BLL.pdb
+T:\Tanim final\OneGo\bin\EntityFramework.xml
+T:\Tanim final\OneGo\bin\EntityFramework.SqlServer.xml
+T:\Tanim final\OneGo\bin\Newtonsoft.Json.xml
+T:\Tanim final\OneGo\bin\System.Net.Http.Formatting.xml
+T:\Tanim final\OneGo\bin\System.Web.Http.xml
+T:\Tanim final\OneGo\bin\System.Web.Http.WebHost.xml
+T:\Tanim final\OneGo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Tanim final\OneGo\bin\DAL.pdb
+T:\Tanim final\OneGo\bin\DAL.dll.config
+T:\Tanim final\OneGo\bin\AutoMapper.xml
+T:\Tanim final\OneGo\obj\Debug\OneGo.csproj.AssemblyReference.cache
+T:\Tanim final\OneGo\obj\Debug\OneGo.csproj.CoreCompileInputs.cache
+T:\Tanim final\OneGo\obj\Debug\OneGo.csproj.CopyComplete
+T:\Tanim final\OneGo\obj\Debug\OneGo.dll
+T:\Tanim final\OneGo\obj\Debug\OneGo.pdb
+T:\OneGo\OneGo\bin\OneGo.dll.config
+T:\OneGo\OneGo\bin\OneGo.dll
+T:\OneGo\OneGo\bin\OneGo.pdb
+T:\OneGo\OneGo\bin\roslyn\csc.exe
+T:\OneGo\OneGo\bin\roslyn\csc.exe.config
+T:\OneGo\OneGo\bin\roslyn\csc.rsp
+T:\OneGo\OneGo\bin\roslyn\csi.exe
+T:\OneGo\OneGo\bin\roslyn\csi.exe.config
+T:\OneGo\OneGo\bin\roslyn\csi.rsp
+T:\OneGo\OneGo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\OneGo\OneGo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\OneGo\OneGo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\OneGo\OneGo\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\OneGo\OneGo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\OneGo\OneGo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\OneGo\OneGo\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\OneGo\OneGo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\OneGo\OneGo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\OneGo\OneGo\bin\roslyn\Microsoft.Managed.Core.targets
+T:\OneGo\OneGo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\OneGo\OneGo\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\OneGo\OneGo\bin\roslyn\System.AppContext.dll
+T:\OneGo\OneGo\bin\roslyn\System.Collections.Immutable.dll
+T:\OneGo\OneGo\bin\roslyn\System.Console.dll
+T:\OneGo\OneGo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\OneGo\OneGo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\OneGo\OneGo\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\OneGo\OneGo\bin\roslyn\System.Globalization.Calendars.dll
+T:\OneGo\OneGo\bin\roslyn\System.IO.Compression.dll
+T:\OneGo\OneGo\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\OneGo\OneGo\bin\roslyn\System.IO.FileSystem.dll
+T:\OneGo\OneGo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\OneGo\OneGo\bin\roslyn\System.Net.Http.dll
+T:\OneGo\OneGo\bin\roslyn\System.Net.Sockets.dll
+T:\OneGo\OneGo\bin\roslyn\System.Reflection.Metadata.dll
+T:\OneGo\OneGo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\OneGo\OneGo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\OneGo\OneGo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\OneGo\OneGo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\OneGo\OneGo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\OneGo\OneGo\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\OneGo\OneGo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\OneGo\OneGo\bin\roslyn\System.ValueTuple.dll
+T:\OneGo\OneGo\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\OneGo\OneGo\bin\roslyn\System.Xml.XmlDocument.dll
+T:\OneGo\OneGo\bin\roslyn\System.Xml.XPath.dll
+T:\OneGo\OneGo\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\OneGo\OneGo\bin\roslyn\vbc.exe
+T:\OneGo\OneGo\bin\roslyn\vbc.exe.config
+T:\OneGo\OneGo\bin\roslyn\vbc.rsp
+T:\OneGo\OneGo\bin\roslyn\VBCSCompiler.exe
+T:\OneGo\OneGo\bin\roslyn\VBCSCompiler.exe.config
+T:\OneGo\OneGo\bin\BLL.dll
+T:\OneGo\OneGo\bin\EntityFramework.dll
+T:\OneGo\OneGo\bin\EntityFramework.SqlServer.dll
+T:\OneGo\OneGo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\OneGo\OneGo\bin\Newtonsoft.Json.dll
+T:\OneGo\OneGo\bin\System.Net.Http.Formatting.dll
+T:\OneGo\OneGo\bin\System.Web.Http.dll
+T:\OneGo\OneGo\bin\System.Web.Http.WebHost.dll
+T:\OneGo\OneGo\bin\DAL.dll
+T:\OneGo\OneGo\bin\AutoMapper.dll
+T:\OneGo\OneGo\bin\BLL.pdb
+T:\OneGo\OneGo\bin\EntityFramework.xml
+T:\OneGo\OneGo\bin\EntityFramework.SqlServer.xml
+T:\OneGo\OneGo\bin\Newtonsoft.Json.xml
+T:\OneGo\OneGo\bin\System.Net.Http.Formatting.xml
+T:\OneGo\OneGo\bin\System.Web.Http.xml
+T:\OneGo\OneGo\bin\System.Web.Http.WebHost.xml
+T:\OneGo\OneGo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\OneGo\OneGo\bin\DAL.pdb
+T:\OneGo\OneGo\bin\DAL.dll.config
+T:\OneGo\OneGo\bin\AutoMapper.xml
+T:\OneGo\OneGo\obj\Debug\OneGo.csproj.AssemblyReference.cache
+T:\OneGo\OneGo\obj\Debug\OneGo.csproj.CoreCompileInputs.cache
+T:\OneGo\OneGo\obj\Debug\OneGo.csproj.CopyComplete
+T:\OneGo\OneGo\obj\Debug\OneGo.dll
+T:\OneGo\OneGo\obj\Debug\OneGo.pdb

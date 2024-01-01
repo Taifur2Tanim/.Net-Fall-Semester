@@ -1,0 +1,28 @@
+T:\Tanim final\BLL\bin\Debug\BLL.dll
+T:\Tanim final\BLL\bin\Debug\BLL.pdb
+T:\Tanim final\BLL\bin\Debug\AutoMapper.dll
+T:\Tanim final\BLL\bin\Debug\DAL.dll
+T:\Tanim final\BLL\bin\Debug\EntityFramework.dll
+T:\Tanim final\BLL\bin\Debug\DAL.pdb
+T:\Tanim final\BLL\bin\Debug\DAL.dll.config
+T:\Tanim final\BLL\bin\Debug\AutoMapper.xml
+T:\Tanim final\BLL\bin\Debug\EntityFramework.xml
+T:\Tanim final\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+T:\Tanim final\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+T:\Tanim final\BLL\obj\Debug\BLL.csproj.CopyComplete
+T:\Tanim final\BLL\obj\Debug\BLL.dll
+T:\Tanim final\BLL\obj\Debug\BLL.pdb
+T:\OneGo\BLL\bin\Debug\BLL.dll
+T:\OneGo\BLL\bin\Debug\BLL.pdb
+T:\OneGo\BLL\bin\Debug\AutoMapper.dll
+T:\OneGo\BLL\bin\Debug\DAL.dll
+T:\OneGo\BLL\bin\Debug\EntityFramework.dll
+T:\OneGo\BLL\bin\Debug\DAL.pdb
+T:\OneGo\BLL\bin\Debug\DAL.dll.config
+T:\OneGo\BLL\bin\Debug\AutoMapper.xml
+T:\OneGo\BLL\bin\Debug\EntityFramework.xml
+T:\OneGo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+T:\OneGo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+T:\OneGo\BLL\obj\Debug\BLL.csproj.CopyComplete
+T:\OneGo\BLL\obj\Debug\BLL.dll
+T:\OneGo\BLL\obj\Debug\BLL.pdb
